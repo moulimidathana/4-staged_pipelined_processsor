@@ -1,1 +1,1 @@
-# 4-staged_pipelined_processsor
+# 4-stage_pipelined_processsor
